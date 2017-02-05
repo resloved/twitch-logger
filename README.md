@@ -1,7 +1,7 @@
 # twitch-logger
 Logs chat messages of [twitch.tv](twitch.tv) user. To be used in the future to imitate users messaging style.
 
-For each user you want to log all channels that the user follows is checked to see if they are chatting. If they send a message it is logged in file for only that user in that channel.
+For each user you want to log; all channels that the user follows is checked to see if they are chatting. If they send a message it is logged in file for that user in that channel specifically.
 
 ##Usage
 CFG Requirements:
