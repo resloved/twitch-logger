@@ -21,8 +21,8 @@ Files are then logged to folders of each user in textfiles for each channel.
 
 ##TO DO
 
-* Let channel readers sleep if channel offline
-* Let channel sleep if no user that follows that channel is in the chat
+* Let channel reader sleep if channel is offline
+* Let channel reader sleep if no user that follows that channel is in the chat
 
 ##To Note
 This repo was remade becuase the previous one contained sensitive information.
