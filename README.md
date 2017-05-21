@@ -3,7 +3,7 @@ Logs chat messages of [twitch.tv](twitch.tv) user. To be used in the future to i
 
 For each user you want to log; all channels that the user follows is checked to see if they are chatting. If they send a message it is logged in file for that user in that channel specifically.
 
-##Usage
+## Usage
 CFG Requirements:
 
 * NAME as Username of your bot
@@ -19,12 +19,12 @@ Main file contains what is required, excluding the list of users.
 
 Files are then logged to folders of each user in textfiles for each channel.
 
-##TO DO
+## TODO
 
 * Let channel reader sleep if channel is offline
 * Let channel reader sleep if no user that follows that channel is in the chat
 
-##To Note
+## To Note
 This repo was remade becuase the previous one contained sensitive information.
 
 **Author:** Benjamin Friesen
